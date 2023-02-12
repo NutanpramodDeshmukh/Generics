@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace maximum.Properties
 {
-    internal class maxGen
+    internal class MaxGen
     {
         public static int IntMaxnum(int firstValue, int secondValue, int thirdValue)
         {

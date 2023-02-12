@@ -10,7 +10,7 @@ namespace maximum
     {
         static void Main(string[] args)
         {
-            Console.WriteLine($"Maximum number = {Test_Maximum.IntMaxnum(5, 9, 8)}");
+            Console.WriteLine($"Maximum number ={MaxGen.IntMaxnum(10, 50, 40)}");
         }
     }
 }
